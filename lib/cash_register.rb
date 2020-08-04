@@ -46,3 +46,5 @@ class CashRegister
         end
     end
 end
+
+#dammit i forgot to use git commanfs again added this comment so i can repush lol
